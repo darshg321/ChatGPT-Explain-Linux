@@ -3,4 +3,5 @@
 To run:
 
 1. Set apikey variable: `export OPENAI_API_KEY=<YOUR_KEY_HERE>`
-2. Run bash script to make it a command `./makecommand.sh`
+2. Give bash script sudo: `chmod +x makecommand.sh`
+3. Run bash script to make `chatgpt` a command `./makecommand.sh`
