@@ -1,0 +1,5 @@
+1. `cd test/dist`
+
+2. `sudo cp chatgpt /usr/local/bin/chatgpt`
+
+3. `export OPENAI_API_KEY=<YOUR_KEY>`
