@@ -104,7 +104,7 @@ def Main():
             print("No commands to run")
             exit(0)
 
-        print("\nCommands to run: ", gptCommands)
+        print("\nCommand(s) to run: ", gptCommands)
         print("\nRun command(s)? (Y/n)")
 
         yesArray = {'yes','y', 'ye', ''}
