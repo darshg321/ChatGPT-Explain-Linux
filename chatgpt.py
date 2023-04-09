@@ -109,3 +109,5 @@ def Main():
             exit(0)
         else:
             stdout.write("Please respond with 'yes' or 'no'")
+            
+Main()
